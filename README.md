@@ -1,1 +1,1 @@
-# HBase
+# HBase Administration Cookbook
